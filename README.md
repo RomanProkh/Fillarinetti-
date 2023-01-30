@@ -1,2 +1,3 @@
-# Fillarinetti-
-Project backup
+#Nettifillari
+#School Project
+#Static HTML pages with hint of JS
